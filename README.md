@@ -11,3 +11,17 @@ Clean and manipulate datasets
 Perform statistical analysis
 Visualize data using Matplotlib and Seaborn
 Complete real-world data analysis projects
+
+
+📂 Repository Structure
+
+data-analysis-with-python/
+├── 01-intro-to-numpy.ipynb
+├── 02-intro-to-pandas.ipynb
+├── 03-data-cleaning.ipynb
+├── 04-data-visualization.ipynb
+├── 05-statistical-analysis.ipynb
+├── 06-demographic-data-analyzer.ipynb
+├── 07-medical-data-visualizer.ipynb
+├── 08-page-view-time-series-visualizer.ipynb
+├── README.md

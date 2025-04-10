@@ -1,3 +1,13 @@
-# Page View Time Series Visualizer
+📊 Data Analysis with Python – FreeCodeCamp Course
 
-This is the boilerplate for the Page View Time Series Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer
+This repository contains my completed Jupyter Notebooks and project solutions from the Data Analysis with Python course by FreeCodeCamp. It covers essential skills in Python for working with data, using libraries like Pandas, NumPy, and Matplotlib.
+
+📘 Course Overview
+
+The course teaches you how to:
+
+Work with data using Pandas and NumPy
+Clean and manipulate datasets
+Perform statistical analysis
+Visualize data using Matplotlib and Seaborn
+Complete real-world data analysis projects
